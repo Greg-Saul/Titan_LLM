@@ -1,0 +1,200 @@
+Hello computer science 1010 students
+welcome to week two this week we'll be
+getting into really learning some python
+code in Chapter
+2 and so I would suggest the first thing
+that maybe you want to start out doing
+is doing your Rebel work in Chapter 2
+reading through these
+sections uh watching the videos on the
+sections and trying out some sample
+programs I wanted to just go over a
+little bit about Rubble here though
+all right so here
+is uh what Revel should look like for
+you and notice first of all all the due
+dates here are um in May June this is
+just to keep the whole book open for the
+duration of the class so you can go back
+and do any of the activities at any time
+they're not going to open and close at
+certain times uh it's because the rebel
+is really your sandbox your place to
+practice stuff and um
+I I'm not going to take any grades
+directly from Revel and into Moodle all
+the course grades are going to be in
+Moodle all the due dates are going to be
+in Moodle right so this is just all this
+stuff is just for practice all right so
+that being said chapter two is what
+we're starting this week and we're going
+to have some some Rebel quizzes a lot of
+the quizzes uh well first of all let's
+just go through you know okay what rubel
+should look like for you you should be
+doing some reading and then at the end
+you'll have a
+checkpoint and um you should answer
+these checkpoint questions and you you
+can keep trying them if you get it
+wrong um it
+will you know you can you well this one
+only had two choices so you you know get
+to another choice but usually on the
+multiple choice questions you can take
+another another stab added or whatever
+um so anyway this is just a check to see
+if if what have read is kind of if
+you've gotten the main points of what
+you read um you might need to go back
+right and reread uh and then you'll get
+to the quiz questions and some of these
+quizzes are actually quite quite tricky
+and they require some
+programming uh to do and like this one
+you'll probably be able to do but you
+know what if I was still un a little bit
+unclear about uh what it was asking here
+so this is said says to write a
+statement that assigns the value of
+3.141592 to the variable Pi what if I
+went
+3.14 =
+pi
+and let me click that away I check my
+answer and it's going to go through some
+process here and it breaks on the I get
+the red x that we we've had a problem
+here and it's going to give me some idea
+uh often these ideas are not going to be
+correct all right so let me just warn
+you that that's part for the course when
+it comes to compiler is trying to guess
+what you're trying to do but that might
+be an occasion to come over to uh TH or
+Cod HS and try the same thing 3.14
+equals
+pi and I'll run that and because
+sometimes the errors you get the the
+corrections you get here well it looks
+like we're going to get the same one in
+this case um but you know let me let me
+actually do this correctly now knowing
+that the variable name needs to be on
+the left side of the equal sign if I run
+this it's no problem right this actually
+runs this assigns of value I can add
+another line of code here to print out
+what's inside of
+it well I guess I'm G to save it as
+something Pi
+problem go ahead do that
+and now my program's going to print
+something out but if I try and transfer
+this
+over I can I should be able to rerun
+this check my
+[Music]
+answer and now it gets through the the
+syntax part so the syntax is is okay
+right this is actual python code
+but it's telling me and this is actually
+pretty good feedback Pi is not equal to
+3.141592 why I haven't included all the
+digits here right so it's trying to tell
+me to include more digits um but it's
+always a good idea to try out your
+programs in in Fon where you can
+actually run them and see what's
+happening uh sometimes this feedback is
+not that valuable and in in this kind of
+case if you were if you were stuck on
+on a quiz question I think a great idea
+would be to come back to the course and
+go down to the week 2 forum that's going
+to be available in the extra materials
+and make a forum post and let's see if
+we can get some discussion going on
+these quiz questions because some of
+them are quite tricky right so an
+appropriate Forum post might
+be uh we add a discussion topic and
+we'll say quiz uh
+question one
+on Section
+2.5 and I might say I try
+to write the
+following pi equals
+2.14 um but this isn't right
+anyone have a
+hint and then hopefully somebody will
+come along with hey I think you're
+missing some digits ideally the hints
+should not like solve the problem
+ideally a nice hint to write back to one
+of your classmates is um something along
+the lines of you know that that
+hopefully will guide them uh toward what
+they're missing but will not actually
+write the answer out um there will be
+some uh quiz questions I think we where
+we will probably write the whole thing
+out because um you know once somebody
+figures it out everyone else will be
+like oh thank God somebody figured that
+out because um some of these are tricky
+but uh they will they will get us
+thinking about the topic area and so I
+still think these quiz questions even
+though some of them like I say are
+tricky are worth discussing all right so
+that's your Revel work for the week the
+particip ation is meet your instructor
+so the goal is for me to have met
+everybody either in person or via Zoom
+this week an easy way to meet me is to
+come by during office hours uh in person
+or if you are around during office hours
+you just can't come to campus email me
+and say hey can I meet with you during
+your office hours at this time and I'll
+turn on zoom and you'll turn on zoom and
+we'll meet via Zoom there is an office
+hour Zoom link
+let me just point out where it is it's
+right here so this is easy to get to you
+just click on this on this um link and
+that's it it'll it'll start a zoom
+session should be fine if you if there's
+any logging in to be done you just use
+your Casper college credentials but this
+just gives us a chance to try out some
+of these modes of communications before
+you have any questions before we're deep
+into the meat of the course and you need
+to get a hold of me and to talk through
+something um we have tried it
+out uh it's not supposed to be a
+stressful big deal so if we don't get it
+done next week we'll we um during actual
+week two we will continue to try and do
+it um but you know it it should be a
+little bit of a heads up if we have a
+really hard time finding a time when we
+both can meet you know that makes me a
+little bit worried for you that when you
+do have questions it will be hard to get
+them answered so we'll we we'll at least
+take that heads up that ability to to
+have a little bit of a heads up um early
+that it might be hard to get
+together all right and then we've got a
+programming assignment I'm going to go
+ahead and put some more videos on the
+programming assignment side um probably
+tomorrow I'm recording this on a Friday
+and I want to because I want to go ahead
+and open this section up so I'm GNA
+finish up this video I hope everybody
+has a good week two
