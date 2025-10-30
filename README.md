@@ -10,9 +10,9 @@ To contribute to this project or clone it using ssh, follow these steps:
     - Open your terminal (connect to your remote server if applicable)
     - Generate a new SSH key pair using the following command:
         ssh-keygen -t ed25519 -C "your_email@example.com"
-            *ssh-keygen -> Starts the SSH key generation process
-            *-t ed25519 -> encryption algorithm
-            *-c -> Identifying comment
+            - ssh-keygen -> Starts the SSH key generation process
+            - -t ed25519 -> encryption algorithm
+            - -c -> Identifying comment
     - When promted, press ENTER to accept the defualt file location
     - Optional, enter a passphrase (can be left blank)
 
@@ -21,7 +21,7 @@ To contribute to this project or clone it using ssh, follow these steps:
         cat ~/.ssh/id_ed25519.pub
     - Copy the entire line (starts with ssh-ed25519 and ends with 
       your email address) and paste in Github
-        GitHub → Settings → SSH and GPG Keys → New SSH key → Paste it there
+        - GitHub → Settings → SSH and GPG Keys → New SSH key → Paste it there
 
 3. Clone the Repository via SSH
     - On your Github repository page, click the CODE button
