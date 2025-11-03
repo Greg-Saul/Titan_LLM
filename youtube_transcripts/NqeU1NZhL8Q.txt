@@ -1,0 +1,86 @@
+all right let's attempt to download and
+install the thawney
+ide on a
+mac
+okay so i'm going to just search for
+thoni ide and here it comes up at
+funny.org
+we'll click on it and we want the mac
+version since i'm doing this on my mac
+it's going to download
+and then i had to be able to click on it
+right there
+you can't see the side but i'm getting a
+little um
+icon that's bouncing around
+and
+i'm just going to click through these
+okay
+all right
+put in your password
+i'll pause this while i'm waiting well
+actually i think it's going to finish
+really fast it's going to
+take less than a minute
+so pretty straightforward
+okay so i did pause the video and then i
+finally got the message that the
+installation was successful so that is
+good and then i can move the installer
+to the trash because we don't need it
+anymore um and now i'm gonna go
+up to the top here and
+search for it
+see if i can find it
+um
+[Music]
+because where did it install it to
+that's the question you have to ask
+are we going to be able to find it again
+let's see yeah
+okay so at this point i'm kind of um i'm
+kind of
+a little dismayed actually that we can't
+get to it from the
+little magnifying glass guy um so i'm
+going to go looking for it with the
+finder window
+all right so
+let's go to applications because that's
+usually where stuff gets installed too
+and here it is
+there it is and i'm gonna open it up and
+see if it'll double click on it and
+um let's see okay first time so english
+yes
+standard settings
+good and this definitely looks like the
+bonnie environment
+and
+we'll do a quick
+hello world program to test it
+maybe do one from the shell also so i'm
+just gonna do
+hey
+on this one yes good
+and we'll save this program someplace
+and
+see if we can
+let's see do we want to put it there
+i'm gonna put it on the desktop
+i think i'm gonna make a new folder
+for python files huh
+okay and let's call this a test
+test program one
+okay so this test program one
+and i can run it and there it goes
+running in the uh
+the shell window
+okay so i am going to attempt to restart
+my machine
+which means i'll have to stop the
+recording and just see if i can actually
+use the magnifying glass to search for
+it because i think that's a little bit
+of a pain
+that you can't do that

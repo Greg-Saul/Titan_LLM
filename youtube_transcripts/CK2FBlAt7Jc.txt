@@ -1,0 +1,145 @@
+yeah okay so I think this program will
+make a lot more sense after you've seen
+a demonstration of it that it will
+come it'll come together okay so in my
+program I have a Max X of 500 and a Max
+y of 500 also
+here's here's a sample run just so you
+can kind of see what an output is going
+to look like I've got my box set up so
+that it's going to go so this is zero
+zero at the center and I've drawn a line
+that goes from minus
+Max X and a y coordinate of 0
+to Max X and a y coordinate of 0 and
+then I've done uh on the on the x equals
+zero axis go from y of Max y to
+minus Max y
+right and just to point something out it
+will do
+put that leading zero it does it you
+know this is this is an operator also so
+you can make this into minus 500. a good
+thing to know
+so let me run the program here once so
+you can just kind of see what's
+I'm envisioning to happen here so here's
+the prompt for color number one let's
+make it red
+and color number two I'll make it blue
+and then I'm gonna do an X location
+let's do something in quadrant one so
+that's going to be two positive numbers
+let's do 300
+and
+uh 100.
+yeah and a radius of 50.
+okay so now we're going to draw the
+stuff here I'm drawing my box that shows
+the limit of the max x max y
+M the zero zero coordinates just for my
+own reference
+and then my two circles so one of them's
+at centered at 300
+and uh in the X so this is 300X which
+makes sense right because this is 500
+and this is zero so 300 should be a
+little past the center right and 100
+should be about a fifth of a way up
+right since this is 500 in the in the X
+Direction and because I entered red and
+blue for my colors
+that means that the color of this should
+be purple
+the if the first color is purple the
+second color should be orange so the
+second circle is orange and the second
+circle is basically reflected across the
+y-axis so if I I mean across the x-axis
+so if I was to fold this
+in in half right here along the X that's
+where the new circle is going to be on
+the Y
+that makes sense
+um so let's do another and we'll put it
+in we'll put the next circle into the
+fourth quadrant here and it should we
+want it to reflect to the third quadrant
+so we'll cross the the y-axis and run it
+again
+all right let's try a different color
+combo how about yellow
+and blue
+and we'll try an X location it's got to
+be a positive negative X because it's
+going to be in the fourth quadrant so
+let's make it negative 400
+and a y location
+[Music]
+it's also
+oops I've already messed this up okay
+let me stop and run again sorry
+running again okay so same color as
+yellow
+and blue X location is positive in
+quadrant four so let's make it positive
+400 all the way over toward the edge
+the right edge here and the Y is going
+to be let's make it minus 200.
+okay so Envision where that's going to
+be on the graph
+and then let's make the radius 50.
+okay so now we're going to do our
+drawing here based on those
+Max X and Max y
+being drawn here's the first Circle over
+at 400
+and the second circle is going to be
+minus 400 right
+because if the first X location is 400
+the second X location should be minus
+400 then we drew our Circle and if the
+first color is green then the second
+color is going to be purple
+all right let me do one where it's
+outside the boundaries here so let's run
+it one more time
+okay let's choose this time what haven't
+we done yet let's do
+red and
+yellow
+so we should get orange for our first
+color and our X location let's choose
+500 let's go to 490.
+um and then oy location that is
+[Music]
+30.
+okay and the radius is going to be let's
+make it 50.
+so let's make it 100 make a bigger
+Circle
+okay now we're going to draw our grid
+[Music]
+and then
+um we get a little we get a a message
+here that the it should be fit of course
+not fixed now that Circle will not fit
+in the X Direction it's going to go
+outside the boundaries
+of on the X side
+right and so we'll let the one that that
+flips over the x-axis so these circles
+in this case because the the um they're
+bigger circles right and they're they're
+close together on the y-axis they're
+going to overlap
+that's okay but I do want this message
+to get printed out I want you to do the
+test to find out whether or not this
+circle is going to fit with inside this
+grid this Max x max y grid and let us
+know if it doesn't fit in one or both
+directions
+okay I hope that gives you a little bit
+more insight into understanding how this
+program should work

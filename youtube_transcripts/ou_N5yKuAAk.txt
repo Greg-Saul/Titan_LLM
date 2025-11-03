@@ -1,0 +1,30 @@
+hi Lucas is your code let's just let me
+just show you a couple of test cases
+here that I want you to think about when
+you're revising
+um let's just let's do a name that's not
+Jack or Jill
+um okay if I do 11 inch pizza which is
+not one of the things
+um it tells me I'm gonna get a 12 inch
+pizza
+and a hand toss crust and then
+none of all of these toppings
+okay
+um and my final cost is zero that
+doesn't seem right
+do another one
+so John's and
+um we'll do a 14 inch pizza
+and I'm gonna make a mistake and hit a j
+for my press selection
+and
+okay
+um so I get J crust
+which is definitely not how we want the
+program to work right we want the
+program to be able to detect when um we
+haven't had one of the
+options and be able to change it to hand
+tossed so that is not happening in this
+program

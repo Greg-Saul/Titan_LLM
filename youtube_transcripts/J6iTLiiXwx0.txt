@@ -1,0 +1,87 @@
+okay danielle i was going to show you
+this whole process so i'm going to open
+up idle
+which is uh your python environment
+okay so you've been doing everything in
+the shell this is the shell
+right and you can you can type your
+python commands that's you know it's
+super handy for trying out
+little stuff like we've been doing so
+far
+um
+and then you know use it in a print
+right and that sort of thing but what
+you
+ultimately want to do and be able to
+turn into me is something you're going
+to get by going to the file menu
+and we're going to type new file
+and this is this is now an editor right
+where i'm going to type in my python
+commands
+equals five
+cost equals i'm just making up some
+numbers here and i'm going to do a print
+statement here
+okay so these are all individual
+commands
+now i'm going to save this and this is
+where we're going to save the dot py
+file
+save
+and i'm gonna try and remember where
+i've saved it to you know so maybe i'll
+just put it on the desktop for now
+this is gonna be a
+test program
+and it's automatically going to save it
+as a dot py file i'll show you in a
+second here
+all right now from here i can run all of
+i can run all of these commands all at
+once
+and it's going to
+the the output the print is going to
+show up in back in the shell window
+okay so that's kind of how i want you to
+start operating so that you can put you
+know all of your
+all of your program into this py file
+which
+i'll show you is now
+should be on my desktop
+we'll see if we can find it here
+let's see i got a lot of crap on my
+desktop it looks like
+right now
+but we will go looking for that
+oops
+for that dot py file
+um
+what did we call it
+oh now i'm perplexed because i don't see
+it here
+and it should be on the desktop let's
+see where did i save this
+uh user is grooner desktop yeah it
+should be there
+let's see
+ah there it is
+i'm not exactly sure how stuff is being
+arranged on my desktop so i i was
+looking for it in alphabetical order and
+i don't think things are
+necessarily in alphabetical order maybe
+opposite l no not even opposite i don't
+know how things are being arranged but
+anyway if it was a snake you know if it
+was a python it would have bit me right
+it's sitting right here so this is what
+you would drag into your email and send
+me and then i could run it just the same
+way
+um i just ran
+that in fact i might go ahead and send
+you this program so that you can run it
+on your own machine

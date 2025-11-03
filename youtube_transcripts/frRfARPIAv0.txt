@@ -1,0 +1,81 @@
+okay in this video let's take a look at
+downloading installing the thawney ide
+for use here so i'm just going to search
+for
+bonnie
+and uh we're looking for thawney.org so
+go ahead and go up and oh this is a
+window system by the way
+so i'm going to download the windows
+version
+and we can see it's starting to download
+down here
+and then let's go ahead and open it up
+oops
+i think i downloaded it
+twice we're only gonna need one of those
+okay and i'm on a school computer
+so i'm gonna just install for me and
+that's probably what you're gonna do too
+if you
+if you have if you have that choice
+and then we're going to go through all
+the license stuff
+and this is where it's going to install
+it is into this path and i would just
+let it go ahead and install to where it
+wants to install
+okay oh and then it's going to
+it's going to make a
+shortcut in the start menu that's that's
+a good thing too right
+and if you want it to put an icon on the
+desktop you'll need to click on that
+okay
+so now we're going to go through the
+process here
+and the progress bar is just going to
+show us
+how we're doing
+okay and then we finally get done and we
+get the message that we've we've done it
+okay so now
+let's see if i click this away if we'll
+see on the
+um
+there's my icon on the desktop
+and also if i go down to the start menu
+which i think you you can't see in this
+view in this video but it's the it's the
+windows menu at the bottom
+um
+it's going to be under recently added
+and it should also be
+alphabetically
+yeah
+i'm sure that's gonna work yeah there it
+is okay so we can get to it
+from one of those ways and we'll just
+open it up here and
+do a quick demo to make sure it's
+working
+it's kind of tiny isn't it
+let's make that window a little bigger
+huh
+and we will do a little print
+hello world and this should prompt me to
+save this because i'm doing it in the
+file
+way so let's see let's
+save this
+in
+[Music]
+this file
+okay
+this is my hello world program
+because that's what it does all right
+and then when we ran it we get the hello
+world i can also use the script
+and just see this line of code run this
+print statement that we're gonna talk
+more about in future videos
