@@ -2,6 +2,7 @@
 
 ### Dependencies
 - youtube-transcript-api: https://pypi.org/project/youtube-transcript-api/
+- pyPDF2: https://pypi.org/project/PyPDF2/
 
 ### Environment Setup
 To contribute to this project or clone it using SSH, follow these steps:
@@ -35,3 +36,13 @@ To contribute to this project or clone it using SSH, follow these steps:
       ```
 
 4. Freely access and work with the repository.
+
+
+### Training Data
+- Textbook: Introduction_to_Python_Programming_-_WEB.pdf
+- Youtube: Playlist ID: PL8DDJG7GRNac8Hf6NWtevdrGE1vkTL3oL
+
+## To Do
+- [x] gather adequate training data
+- [ ] vectorize data
+- [ ] train model
